@@ -1,0 +1,12 @@
+{
+  "name": "CorgiCoin",
+  "symbol": "CORGI",
+  "description": "The ultimate meme token on Solana blockchain \ud83d\ude80 Woof!",
+  "image": "corgi.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    }
+  ]
+}
