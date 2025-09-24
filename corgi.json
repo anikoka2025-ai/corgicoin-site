@@ -1,7 +1,7 @@
 {
   "name": "CorgiCoin",
   "symbol": "CORGI",
-  "description": "Meme token on Solana 🚀 Woof!",
+  "description": "Meme token on Solana 🚀 Woof!!!",
   "image": "https://anikoka2025-ai.github.io/corgicoin-site/corgi.png",
   "attributes": [
     { "trait_type": "Category", "value": "Meme Coin" }
